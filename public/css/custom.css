@@ -1,0 +1,40 @@
+.bg-green {
+    background-color: #61bd4f;
+}
+
+.bg-yellow {
+    background-color: #f2d600;
+}
+
+.bg-orange {
+    background-color: #ff9f1a;
+}
+
+.bg-red {
+    background-color: #eb5a46;
+}
+
+.bg-purple {
+    background-color: #c377e0;
+}
+
+.bg-blue {
+    background-color: #0079bf;
+}
+
+.bg-sky {
+    background-color: #00c2e0;
+}
+
+.bg-lime {
+    background-color: #51e898;
+}
+
+.badge-empty {
+    padding: 7px 2em;
+}
+
+h3, h4, h5, h6 {
+    font-size: 16px;
+    line-height: 20px;
+}
